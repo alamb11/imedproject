@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+.header {
+    display:flex;
+    justify-content:center;
+    text-align:center}
+.firstrow {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    padding:15px
+    }
+.secondrow {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    padding:15px
+}
+.column {
+    display:flex;
+    flex-direction:column;
+    justify-content:center
+}
